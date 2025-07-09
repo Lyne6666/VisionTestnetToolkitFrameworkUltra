@@ -1,2 +1,1 @@
-# VisionTestnetToolkitFrameworkUltra
-Advanced VisionTestnetToolkitFrameworkUltra project
+.
